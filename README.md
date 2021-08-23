@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Devanshu0502
 - 👀 I’m interested in Data Science and Engineering
 - 🌱 I’m currently learning Masters in Data Science and Engineering
-- 💞️ I’m looking to collaborate on Packt
+- 💞️ I’m looking to collaborate on different industry standard projects based on Data Science
 - 📫 How to reach me tayaldevanshu0502@gmail.com
 
 <!---
