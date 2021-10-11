@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Devanshu0502
+- 👋 Hi, I’m @Devanshu Tayal
 - 👀 I’m interested in Data Science and Engineering
 - 🌱 I’m currently learning Masters in Data Science and Engineering from BITS Pilani
 - 💞️ I’m looking to collaborate on different industry standard projects based on Data Science
