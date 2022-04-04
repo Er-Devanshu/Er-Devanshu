@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Devanshu Tayal
-- 👀 I’m interested in Data Science and Engineering
-- 🌱 I’m currently learning Masters in Data Science and Engineering from BITS Pilani
-- 💞️ I’m looking to collaborate on different industry standard projects based on Data Science
+- 👀 Data Science and Engineering
+- 🌱 BITS Pilani Alumini in Masters in Data Science and Engineering
+- 💞️ Looking to collaborate on different industry standard projects based on Data Science
 - 📫 How to reach me tayaldevanshu0502@gmail.com
 
 <!---
