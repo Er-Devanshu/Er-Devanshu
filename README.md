@@ -16,11 +16,14 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">Hello it's <strong>Devanshu Tayal</strong> 👋</p>
 
-- 🌱 I’m currently learning about MLOps.
-- 💬 Ask me about ML, DL, NLP, and Data Visualization
+- 🌱 I’m currently learning about MLOps and Cloud.
+- 👀 Data Science and Engineering
 - 🌱 BITS Pilani Alumni in Masters in Data Science and Engineering
+- 💬 Ask me about ML, DL, NLP, and Data Visualization
 - 📫 How to reach me: Tayaldevanshu0502@gmail.com
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/chirag-chauhan-9a220a195/](https://www.linkedin.com/in/er-devanshu-t-794a8a1b3/))
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/er-devanshu-t-794a8a1b3/)
+[![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=Medium&logoColor=white&color=0D76A8)]([https://medium.com/@tayaldevanshu0502])
+[![Tableau Badge](https://img.shields.io/badge/Tableau-Profile-informational?style=flat&logo=Tableau&logoColor=white&color=0D76A8)]([https://public.tableau.com/app/profile/devanshu.tayal])
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Devanshu0502&theme=radical)<br>
