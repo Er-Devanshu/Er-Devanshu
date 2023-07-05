@@ -17,8 +17,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">Hello it's <strong>Devanshu Tayal</strong> 👋</p>
 
 - 🌱 I’m currently learning about MLOps and Cloud.
-- 👀 Data Science and Engineering
-- 🌱 BITS Pilani Alumni in Masters in Data Science and Engineering
+- 👀 BITS Pilani Alumni in Masters in Data Science and Engineering
 - 💬 Ask me about ML, DL, NLP, and Data Visualization
 - 📫 How to reach me: Tayaldevanshu0502@gmail.com
 
