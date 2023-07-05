@@ -25,7 +25,6 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/er-devanshu-t-794a8a1b3/)
 [![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=Medium&logoColor=white&color=0D76A8)](https://medium.com/@tayaldevanshu0502/)
 [![Tableau Badge](https://img.shields.io/badge/Tableau-Profile-informational?style=flat&logo=Tableau&logoColor=white&color=0D76A8)](https://public.tableau.com/app/profile/devanshu.tayal/)
-
-#[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/chirag-chauhan-9a220a195/)
+[![Google Badge](https://img.shields.io/badge/Google-Profile-informational?style=flat&logo=Google&logoColor=white&color=0D76A8)](https://www.cloudskillsboost.google/public_profiles/f219932c-3a71-4364-b2a3-e65c2d89e4f6/)
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Devanshu0502&theme=radical)<br>
