@@ -1,21 +1,4 @@
-<!---- 👋 Hi, I’m @Devanshu Tayal
-- 🤗 I've recently learned Gen AI & GCP.
-- 🌱 BITS Pilani Alumni in Masters in Data Science and Engineering
-- 🤹🏻‍ Technologies I've worked on are *Python, Machine Learning, Deep Learning, NLP, Azure, GCP, Tableau, PowerBI*.
-- 💞️ Looking to collaborate on different industry-standard projects based on Data Science
-- 📫 How to reach me: -  tayaldevanshu0502@gmail.com
-- ![image](https://user-images.githubusercontent.com/77142733/234189646-54ecb325-ef70-43c6-911f-6db7ac5aa0de.png) +91 63580-77569
-- ![image](https://user-images.githubusercontent.com/77142733/234190756-2161b6cb-95b6-4a86-9891-c01c255fd04c.png) https://www.linkedin.com/in/er-devanshu-t-794a8a1b3/--->
-
-
-<!---
-Devanshu0502/Devanshu0502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
-<p align="center">Hello it's <strong>Devanshu Tayal</strong> 👋</p>
+### Hello, I'm Devanshu Tayal! 👋
 
 - 🌱 I’m currently learning about MLOps, Gen AI and Cloud.
 - 👀 BITS Pilani Alumni in Masters in Data Science and Engineering
@@ -23,14 +6,13 @@ You can click the Preview link to take a look at your changes.
 - 📄 Read some of my writing
   - [Tech Blogs](https://medium.com/@tayaldevanshu0502/)
 - 💬 Ask me about Idea, Technology, Data Science, ML, DL, NLP, Data Visualization or any tech related stuff.
-- 📫 How to reach me: Tayaldevanshu0502@gmail.com
+- 📫 How to reach me: [Email](Tayaldevanshu0502@gmail.com) | [LinkedIn](https://www.linkedin.com/in/er-devanshu-t-794a8a1b3/)
 - 😄 Pronouns: He/His
 - 😇 Believe in: 
   - *You I can is more important than your IQ* 
   - *You Imagination is more important than your Knowledge*
 - ⚡ Fun fact: Coffee person, traveller
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/er-devanshu-t-794a8a1b3/)
 [![Tableau Badge](https://img.shields.io/badge/Tableau-Profile-informational?style=flat&logo=Tableau&logoColor=white&color=0D76A8)](https://public.tableau.com/app/profile/devanshu.tayal/)
 [![Google Badge](https://img.shields.io/badge/Google-Profile-informational?style=flat&logo=Google&logoColor=white&color=0D76A8)](https://www.cloudskillsboost.google/public_profiles/f219932c-3a71-4364-b2a3-e65c2d89e4f6/)
   
