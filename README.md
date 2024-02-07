@@ -6,7 +6,7 @@
 - 📄 Read some of my writing
   - [Tech Blogs](https://medium.com/@tayaldevanshu0502/)
 - 💬 Ask me about Idea, Technology, Data Science, ML, DL, NLP, Data Visualization or any tech related stuff.
-- 📫 How to reach me: [Email](Tayaldevanshu0502@gmail.com) | [LinkedIn](https://www.linkedin.com/in/er-devanshu-t-794a8a1b3/)
+- 📫 How to reach me: [Email](Tayaldevanshu0502@gmail.com) | [LinkedIn](https://www.linkedin.com/in/er-devanshu-t-794a8a1b3/) | [Portfolio](https://www.devanshutayal.in/)
 - 😄 Pronouns: He/His
 - 😇 Believe in: 
   - *You I can is more important than your IQ* 
