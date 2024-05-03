@@ -2,15 +2,15 @@
 
 - 🌱 I’m currently learning about MLOps, Gen AI and Cloud.
 - 👀 BITS Pilani Alumni in Masters in Data Science and Engineering
-- 🤹🏻‍ Technologies I've worked on are *Python, Machine Learning, Deep Learning, NLP, Azure, GCP, Tableau, PowerBI*.
+- 🤹🏻‍ Technologies I've worked on are *Python, Machine Learning, Deep Learning, NLP, Azure, GCP, Tableau, and PowerBI*.
 - 📄 Read some of my writing
   - [Tech Blogs](https://medium.com/@tayaldevanshu0502/)
-- 💬 Ask me about Idea, Technology, Data Science, ML, DL, NLP, Data Visualization or any tech related stuff.
+- 💬 Ask me about Ideas, Technology, Data Science, ML, DL, NLP, Data Visualization or any tech-related stuff.
 - 📫 How to reach me: [Email](Tayaldevanshu0502@gmail.com) | [LinkedIn](https://www.linkedin.com/in/er-devanshu-t-794a8a1b3/) | [Portfolio](https://www.devanshutayal.in/)
 - 😄 Pronouns: He/His
 - 😇 Believe in: 
   - *You I can is more important than your IQ* 
-  - *You Imagination is more important than your Knowledge*
+  - *Your imagination is more important than your Knowledge*
 - ⚡ Fun fact: Coffee person, traveller
 
 [![Tableau Badge](https://img.shields.io/badge/Tableau-Profile-informational?style=flat&logo=Tableau&logoColor=white&color=0D76A8)](https://public.tableau.com/app/profile/devanshu.tayal/)
