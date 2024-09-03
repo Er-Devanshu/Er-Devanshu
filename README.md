@@ -13,8 +13,9 @@ Sharing insights at colleges and universities
 📧 [Email](Tayaldevanshu0502@gmail.com) | [LinkedIn](https://www.linkedin.com/in/er-devanshu-t-794a8a1b3/) | 🌐 [Portfolio](https://www.devanshutayal.in/)
 ### 😄 Pronouns: He/Him
 ### 😇 Guiding Beliefs:
-"Determination and creativity often outweigh raw intelligence." 🚀
-"Imagination fuels innovation and drives progress." 🌟
+
+- "Determination and creativity often outweigh raw intelligence." 🚀
+- "Imagination fuels innovation and drives progress." 🌟
 ## ⚡ Fun Fact:
 Coffee aficionado ☕ | Passionate traveler ✈️
 
