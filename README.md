@@ -1,17 +1,22 @@
-### Hello, I'm Devanshu Tayal! 👋
-
-- 🔍 I’m currently learning about MLOps, Gen AI and Cloud.
-- 🎓 BITS Pilani Alumni in Masters in Data Science and Engineering
-- 💻‍ Technologies I've worked on are *Python, Machine Learning, Deep Learning, NLP, LLM, SLM, Azure, GCP, Tableau, and PowerBI*.
-- 🧑‍💼 📊 Tableau Group Leader
-- 💬🤔 Ask me about Ideas, Technology, Data Science, ML, DL, NLP, Data Visualization, LLM, SLM, Cloud Services or any tech-related stuff.
-- 📧 How to reach me: [Email](Tayaldevanshu0502@gmail.com) | [LinkedIn](https://www.linkedin.com/in/er-devanshu-t-794a8a1b3/) | [Portfolio](https://www.devanshutayal.in/)
-- 🏷️👤 Pronouns: He/His
-- ✨ Believe in: 
-  - *You I can is more important than your IQ* 
-  - *Your imagination is more important than your Knowledge*
-- ⚡ Fun fact: ☕Coffee person, ✈️traveller
-
+# Hi, I'm Devanshu Tayal! 👋
+## 🎓 Education:
+Masters in Data Science and Engineering, BITS Pilani
+## 🌱 Currently Exploring:
+MLOps | Generative AI | Cloud Technologies
+## 🤹🏻 Technologies:
+Python | Machine Learning | Deep Learning | NLP | LLM | SLM | Azure | GCP | Tableau 📊 | Power BI 📈
+## 📊 Tableau Group Leader:
+Leading visualization projects and mentoring Tableau enthusiasts
+## 🗣️ Expert Speaker:
+Sharing insights at colleges and universities
+## 💬 Let’s Connect:
+📧 [Email](Tayaldevanshu0502@gmail.com) | [LinkedIn](https://www.linkedin.com/in/er-devanshu-t-794a8a1b3/) | 🌐 [Portfolio](https://www.devanshutayal.in/)
+### 😄 Pronouns: He/Him
+### 😇 Guiding Beliefs:
+"Determination and creativity often outweigh raw intelligence." 🚀
+"Imagination fuels innovation and drives progress." 🌟
+## ⚡ Fun Fact:
+Coffee aficionado ☕ | Passionate traveler ✈️
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Profile-informational?style=flat&logo=Linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/er-devanshut0502/) 
 [![Tableau Badge](https://img.shields.io/badge/Tableau-Profile-informational?style=flat&logo=Tableau&logoColor=white&color=0D76A8)](https://public.tableau.com/app/profile/devanshu.tayal/) 
 [![Google Badge](https://img.shields.io/badge/Google-Profile-informational?style=flat&logo=Google&logoColor=white&color=0D76A8)](https://www.cloudskillsboost.google/public_profiles/f219932c-3a71-4364-b2a3-e65c2d89e4f6/)
