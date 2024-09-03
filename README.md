@@ -13,6 +13,8 @@
   - *Your imagination is more important than your Knowledge*
 - ⚡ Fun fact: Coffee person, traveller
 
+[![Website Badge](https://img.shields.io/badge/Website-Profile-informational?style=flat&logo=website&logoColor=white&color=0D76A8)](https://devanshutayal.in/))
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-Profile-informational?style=flat&logo=Linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/er-devanshut0502/))
 [![Tableau Badge](https://img.shields.io/badge/Tableau-Profile-informational?style=flat&logo=Tableau&logoColor=white&color=0D76A8)](https://public.tableau.com/app/profile/devanshu.tayal/)
 [![Google Badge](https://img.shields.io/badge/Google-Profile-informational?style=flat&logo=Google&logoColor=white&color=0D76A8)](https://www.cloudskillsboost.google/public_profiles/f219932c-3a71-4364-b2a3-e65c2d89e4f6/)
 [![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=Medium&logoColor=white&color=0D76A8)](https://medium.com/@tayaldevanshu0502)
