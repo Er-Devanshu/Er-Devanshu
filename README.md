@@ -27,5 +27,5 @@ Coffee aficionado ☕ | Passionate traveler ✈️
   
 ### 📊 GitHub Stats:
 
-| ![Devanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devanshu0502&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devanshu0502&theme=radical) |
+| ![Devanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Er-Devashu&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Er-Devanshu&theme=radical) |
 | --- | --- |
