@@ -10,7 +10,7 @@ Leading visualization projects and mentoring Tableau enthusiasts
 ## 🗣️ Expert Speaker:
 Sharing insights at colleges and universities
 ## 💬 Let’s Connect:
-📧 [Email](Tayaldevanshu0502@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/er-devanshut/) | 🌐 [Portfolio](https://www.devanshutayal.in/)
+📧 [Email](Tayaldevanshu0502@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/er-devanshut/) | 🌐 [Portfolio](https://www.devanshutayal.com/)
 ### 😄 Pronouns: He/Him
 ### 😇 Guiding Beliefs:
 
