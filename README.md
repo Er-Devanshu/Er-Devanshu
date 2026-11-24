@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=0:111827,50:172554,100:0F766E&text=DEVANSHU%20TAYAL&fontColor=F8FAFC&fontSize=46&fontAlignY=40&desc=DATA%20%7C%20AI%20%7C%20ENGINEERING%20%7C%20COMMUNITY&descAlignY=60&descSize=14&animation=fadeIn" width="100%" alt="Devanshu Tayal"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=0:111827,50:172554,100:0F766E&text=Er.%20DEVANSHU%20TAYAL&fontColor=F8FAFC&fontSize=46&fontAlignY=40&desc=DATA%20%7C%20AI%20%7C%20ENGINEERING%20%7C%20COMMUNITY&descAlignY=60&descSize=14&animation=fadeIn" width="100%" alt="Devanshu Tayal"/>
 
 # Building what comes next.
 
@@ -8,10 +8,10 @@
 
 I design data platforms, explore intelligent systems and build communities that move technology forward.
 
-<a href="https://www.linkedin.com/in/er-devanshut/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.devanshutayal.com/"><img src="https://img.shields.io/badge/Portfolio-Explore-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:Tayaldevanshu0502@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Er-Devanshu"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/er-devanshut/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.devanshutayal.com/"><img src="https://img.shields.io/badge/Portfolio-Explore-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:Tayaldevanshu0502@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Er-Devanshu"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Designing+modern+data+platforms;Engineering+intelligent+solutions;Exploring+Generative+%26+Agentic+AI;Building+technology+communities" alt="Areas of work"/>
 
@@ -176,17 +176,17 @@ My community work includes organising meetups, community days and hands-on works
 
 ## ✍️ Writing, Learning & Knowledge Sharing
 
-I believe learning becomes more valuable when it is shared. I write about technology, practical implementations, architecture and lessons from working across the Data and AI ecosystem.
+I write about technology, practical implementations, architecture and lessons from working across the Data and AI ecosystem.
 
-<a href="https://medium.com/@Er.Devanshu"><img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://public.tableau.com/app/profile/devanshu.tayal/"><img src="https://img.shields.io/badge/Tableau_Public-Visualisations-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/f219932c-3a71-4364-b2a3-e65c2d89e4f6/"><img src="https://img.shields.io/badge/Google_Cloud-Skills-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
+<a href="https://medium.com/@Er.Devanshu"><img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://public.tableau.com/app/profile/devanshu.tayal/"><img src="https://img.shields.io/badge/Tableau_Public-Visualisations-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public"/></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/f219932c-3a71-4364-b2a3-e65c2d89e4f6/"><img src="https://img.shields.io/badge/Google_Cloud-Skills-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Skills"/></a>
 
 ---
 
 ## 📊 GitHub — Engineering in Public
 
-*Ideas, experiments, contributions and continuous learning — all in one place.*
+*Code, experiments and contributions.*
 
 <div align="center">
 
@@ -201,18 +201,25 @@ I believe learning becomes more valuable when it is shared. I write about techno
 
 <table>
 <tr>
-<td width="55%" valign="middle" align="center">
+<td width="42%" align="center" valign="middle">
 
-**🏆 GITHUB PERFORMANCE & RANKING**
+**🏆 PERFORMANCE & RANKING**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Er-Devanshu&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=38BDF8&text_color=C9D1D9&ring_color=58A6FF&rank_icon=percentile&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" width="100%" alt="GitHub statistics and global ranking"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Er-Devanshu&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=38BDF8&text_color=C9D1D9&ring_color=58A6FF&rank_icon=percentile&show=prs_merged,prs_merged_percentage&card_width=390" width="100%" alt="GitHub statistics and percentile ranking"/>
 
 </td>
-<td width="45%" valign="middle" align="center">
+<td width="28%" align="center" valign="middle">
 
-**💻 LANGUAGE DISTRIBUTION**
+**💻 LANGUAGES**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Devanshu&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=Jupyter%20Notebook&langs_count=6" width="100%" alt="Most used programming languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Devanshu&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=Jupyter%20Notebook&langs_count=5&card_width=280" width="100%" alt="Programming language distribution"/>
+
+</td>
+<td width="30%" align="center" valign="middle">
+
+**🔥 STREAK**
+
+<img src="https://streak-stats.demolab.com?user=Er-Devanshu&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=38BDF8&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&card_width=300&card_height=180" width="100%" alt="GitHub contribution streak"/>
 
 </td>
 </tr>
@@ -220,34 +227,30 @@ I believe learning becomes more valuable when it is shared. I write about techno
 
 <div align="center">
 
-**🔥 CONTRIBUTION STREAK**
-
-<img src="https://streak-stats.demolab.com?user=Er-Devanshu&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=38BDF8&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="75%" alt="GitHub contribution streak"/>
-
 **📈 CONTRIBUTION HISTORY**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Er-Devanshu&bg_color=0D1117&color=58A6FF&line=38BDF8&point=FFFFFF&area=true&hide_border=true&height=150&custom_title=Contribution%20History" width="100%" alt="GitHub contribution activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Er-Devanshu&bg_color=0D1117&color=58A6FF&line=38BDF8&point=FFFFFF&area=true&hide_border=true&height=140&custom_title=Contribution%20History" width="100%" alt="GitHub contribution history"/>
 
-<sub>Building, experimenting and contributing — one commit at a time.</sub>
+<sub>Explore my repositories and contributions on <a href="https://github.com/Er-Devanshu">GitHub</a>.</sub>
 
 </div>
 
 ---
 
-## 🤝 Let's Build Something Together
+## 🤝 Let's Connect
 
-Have an interesting idea, a technical challenge, a speaking opportunity or simply want to exchange thoughts about Data and AI? I'd be happy to connect.
+Have an interesting idea, a technical challenge, a speaking opportunity or want to exchange thoughts about Data and AI? Let's connect.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/er-devanshut/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.devanshutayal.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:Tayaldevanshu0502@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Er-Devanshu"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/er-devanshut/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.devanshutayal.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:Tayaldevanshu0502@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Er-Devanshu"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
-### Building data platforms. Exploring intelligent systems. Empowering technology communities.
+### Data. Engineering. AI. Community.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:172554&height=75&section=footer" width="100%" alt="Footer"/>
 
