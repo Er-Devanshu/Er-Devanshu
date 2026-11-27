@@ -50,7 +50,7 @@ I look at technologies as connected building blocks for solving engineering and 
 <tr>
 <td width="50%" valign="top">
 
-**01 / Data Engineering**
+**Data Engineering**
 
 <sub>BUILDING MODERN DATA PLATFORMS</sub>
 
@@ -65,7 +65,7 @@ I look at technologies as connected building blocks for solving engineering and 
 </td>
 <td width="50%" valign="top">
 
-**02 / Business Intelligence**
+**Business Intelligence**
 
 <sub>TURNING DATA INTO DECISIONS</sub>
 
@@ -80,7 +80,7 @@ I look at technologies as connected building blocks for solving engineering and 
 <tr>
 <td width="50%" valign="top">
 
-**03 / Data Science & ML**
+**Data Science & ML**
 
 <sub>BUILDING PREDICTIVE SOLUTIONS</sub>
 
@@ -93,7 +93,7 @@ I look at technologies as connected building blocks for solving engineering and 
 </td>
 <td width="50%" valign="top">
 
-**04 / Generative & Agentic AI**
+**Generative & Agentic AI**
 
 <sub>EXPLORING INTELLIGENT APPLICATIONS</sub>
 
@@ -110,7 +110,7 @@ I look at technologies as connected building blocks for solving engineering and 
 <tr>
 <td colspan="2" valign="top">
 
-**05 / Cloud & Solution Architecture**
+**Cloud & Solution Architecture**
 
 <sub>DESIGNING FOR SCALE, RELIABILITY AND REAL-WORLD DELIVERY</sub>
 
